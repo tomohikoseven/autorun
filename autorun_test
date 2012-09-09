@@ -1,0 +1,6 @@
+b fib
+run
+list
+disable 1
+c
+quit
